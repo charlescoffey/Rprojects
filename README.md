@@ -1,7 +1,4 @@
 # Rprojects
 Portfolio for projects in R
 
-## These are my projects
-
-# FIle e:
-fdfdf 
+## These are my projects coded in R
